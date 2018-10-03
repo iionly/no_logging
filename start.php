@@ -1,7 +1,7 @@
 <?php
 
 /**
- * No Logging for Elgg 1.9 - 1.12 and Elgg 2.X
+ * No Logging plugin
  *
  * This plugin disables the Elgg system log
  *
@@ -12,10 +12,9 @@
  * Contact: iionly@gmx.de
  */
 
-elgg_register_event_handler('init','system','no_logging_init');
+elgg_register_event_handler('init', 'system', 'no_logging_init');
 
 function no_logging_init(){
-
 	// disable the system log
 	elgg_unregister_event_handler('log', 'systemlog', 'system_log_default_logger');
 	elgg_unregister_event_handler('all', 'all', 'system_log_listener');

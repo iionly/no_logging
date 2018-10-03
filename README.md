@@ -1,8 +1,8 @@
-No Logging for Elgg 1.9 - 1.12 and Elgg 2.X
-===========================================
+No Logging for Elgg 2.3 and newer Elgg 2.X
+==========================================
 
-Latest Version: 1.9.1  
-Released: 2015-09-19  
+Latest Version: 2.3.1  
+Released: 2018-10-02  
 Contact: iionly@gmx.de  
 License: GNU General Public License version 2  
 Copyright: (c) iionly

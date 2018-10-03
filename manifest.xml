@@ -3,7 +3,7 @@
 	<name>No Logging</name>
 	<id>no_logging</id>
 	<author>iionly</author>
-	<version>1.9.1</version>
+	<version>2.3.1</version>
 	<category>utility</category>
 	<description>This plugin disables the Elgg system log.</description>
 	<website>https://github.com/iionly</website>
@@ -11,6 +11,6 @@
 	<license>GNU Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
-		<version>1.9</version>
+		<version>2.3.0</version>
 	</requires>
 </plugin_manifest>

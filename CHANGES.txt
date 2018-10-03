@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.3.1
+-----
+
+* Requires Elgg 2.3 at minimum,
+* Just a clarification of license (GPLv2 only) in composer.json.
+
 1.9.1
 -----
 
