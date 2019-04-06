@@ -1,6 +1,12 @@
 Changelog
 =========
 
+3.0.0
+-----
+
+* Requires Elgg 3.0 at minimum,
+* Make the System Log plugin bundled with Elgg 3 a requirement.
+
 2.3.1
 -----
 
